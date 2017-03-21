@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CLed">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAAAQAAIAAAABAIAEAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Led.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLucesDlg">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="CLucesDlg::__unnamed_enum_0255_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LucesDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>MICAAAEAAAIQCIAAAJAAAAAAAEACQASAAmAAIAAQAQA=</HashCode>
+      <FileName>LucesDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModBus">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAEAAAAAgCAAFBACAIgAmAAAAAAQ=</HashCode>
+      <FileName>ModBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyMemory">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <NestedTypes>
+      <Struct Name="CMyMemory::Register" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyMemory.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAgAIABAAAAAAAAAAEEAAA=</HashCode>
+      <FileName>MyMemory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMySocket">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAQAAAAAAAAAAAAAAAACAAAIAEAAAAAAAA=</HashCode>
+      <FileName>MySocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
